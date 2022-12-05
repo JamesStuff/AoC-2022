@@ -1,5 +1,5 @@
-# Advent of Code 2022 - Day XX
-## (NAME)
+# Advent of Code 2022 - Day XXXXXX
+## (XXXXXXXXXXXXXXXX)
 
 ### [`main1.py`](main1.py)
 
